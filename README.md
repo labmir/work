@@ -2,7 +2,7 @@ Python-Hello_World_web_server-with-Prometheus-Grafana
 ========
 
 A docker-compose example with docker of python webserver together with monitoring solution for Docker hosts and containers with [Prometheus](https://prometheus.io/), [Grafana](http://grafana.org/), [cAdvisor](https://github.com/google/cadvisor),
-[NodeExporter](https://github.com/prometheus/node_exporter) and alerting with [AlertManager](https://github.com/prometheus/alertmanager).  
+[NodeExporter](https://github.com/prometheus/node_exporter)
 
 
 
@@ -30,11 +30,9 @@ docker-compose up -d
 * Hello World web-page `http://localhost:8001`
 * Grafana (visualize metrics) `http://localhost:3000`
 * Prometheus (metrics database) `http://localhost:9090`
-
-* Prometheus-Pushgateway (push acceptor for ephemeral and batch jobs) `http://localhost:9091`
-* AlertManager (alerts management) `http://localhost:9093`
+* 
 * NodeExporter (host metrics collector)
 * cAdvisor (containers metrics collector)
-* Caddy (reverse proxy and basic auth provider for prometheus and alertmanager)
+* Caddy (reverse proxy and basic auth for prometheus)
 
 
