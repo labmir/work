@@ -6,8 +6,8 @@ A docker-compose example with docker of python webserver together with monitorin
 
 
 
-![Host](https://raw.githubusercontent.com/labmir/fincana/master/pics/scrn0.png)
-![Host](https://raw.githubusercontent.com/labmir/fincana/master/pics/scrn1.png)
+![Host](https://raw.githubusercontent.com/work/fincana/master/pics/scrn0.png)
+![Host](https://raw.githubusercontent.com/work/fincana/master/pics/scrn1.png)
 
 ## Install
 
@@ -20,7 +20,7 @@ ADMIN_PASSWORD=admin
 ### Clone this repository on your Docker host, cd into cloned directory and run compose up:
 
 ```
-git clone https://github.com/labmir/fincana.git 
+git clone https://github.com/labmir/work.git 
 docker-compose up -d
 ```
 
