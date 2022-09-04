@@ -6,8 +6,8 @@ A docker-compose example with docker of python webserver together with monitorin
 
 
 
-![Host](https://raw.githubusercontent.com/work/fincana/master/pics/scrn0.png)
-![Host](https://raw.githubusercontent.com/work/fincana/master/pics/scrn1.png)
+![Host](https://raw.githubusercontent.com/labmir/work/master/pics/scrn0.png)
+![Host](https://raw.githubusercontent.com/labmir/work/master/pics/scrn1.png)
 
 ## Install
 
